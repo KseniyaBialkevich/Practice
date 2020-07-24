@@ -1,2 +1,2 @@
 # Practice
-Small project using a WEB + templates + MySql
+The small project using a WEB + templates + MySql
